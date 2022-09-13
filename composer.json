@@ -21,16 +21,16 @@
     ],
     "require": {
         "php": "^8.0|^8.1",
-        "illuminate/database": "^9.0",
-        "illuminate/http": "^9.0",
-        "illuminate/support": "^9.0",
-        "spatie/laravel-package-tools": "^1.11"
+        "illuminate/database": "^9.28",
+        "illuminate/http": "^9.28",
+        "illuminate/support": "^9.28",
+        "spatie/laravel-package-tools": "^1.13"
     },
     "require-dev": {
         "ext-json": "*",
         "mockery/mockery": "^1.4",
         "orchestra/testbench": "^7.0",
-        "spatie/laravel-ray": "^1.28",
+        "spatie/laravel-ray": "^1.29",
         "pestphp/pest": "^1.20"
     },
     "autoload": {
